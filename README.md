@@ -126,6 +126,17 @@ TestBaseModel class:
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
+## New Contribution
+# making it better!
+
+0. Last clone!
+1. Cash only
+2. Select some Amenities to be comfortable!
+3. API status
+4. Fetch places
+5. Filter places by Amenity
+6. States and Cities
+7. Reviews
 
 ## Examples of use
 ```
@@ -154,6 +165,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Abdelhamid Oussat - [Github](https://github.com/Tassuo7)
+Zino Chan - [Github](https://github.com/ZinoChan)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
